@@ -37,12 +37,14 @@ body {
   }
   
   .flip-card-back{
-    background-color: #c9dced;
-    color: #080705;
+    background-color: #0b2e56;
+    color: #a4c5fa;
     transform: rotateY(180deg);
   }
 
-
+span{
+    color: #f1b94f;
+}
 
 
 
@@ -53,5 +55,12 @@ div{
         flex-wrap: wrap;
         gap: 40px;
         
-   
 }
+
+  .container{
+    margin-left:12%;
+    margin-top:1% ;
+  }
+  h1{ text-align: center;
+
+  }
